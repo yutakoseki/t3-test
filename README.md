@@ -1,3 +1,7 @@
+# 参考URL
+https://trpc.io/docs/example-apps
+↑のこれ　→　「Next.js starter with Prisma, E2E testing, and ESLint (Recommended)」
+
 # Prisma + tRPC
 
 ## Features
